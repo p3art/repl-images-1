@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="600px" height="600px">
+<polygon points="0,0 600,0 600,600 0,600 0,0" fill="lightsteelblue" stroke="sandybrown" stroke-width="4" /> 
+<polyline points="0,300 600,300" fill="none" stroke="gray" stroke-width="1" /> 
+<polyline points="0,387 600,387" fill="none" stroke="gray" stroke-width="1" /> 
+<polyline points="0,474 600,474" fill="none" stroke="gray" stroke-width="1" /> 
+<polyline points="0,561 600,561" fill="none" stroke="gray" stroke-width="1" /> 
+<polyline points="0,213 600,213" fill="none" stroke="gray" stroke-width="1" /> 
+<polyline points="0,126 600,126" fill="none" stroke="gray" stroke-width="1" /> 
+<polyline points="0,39 600,39" fill="none" stroke="gray" stroke-width="1" /> 
+<polyline points="0,0 0,600" fill="none" stroke="gray" stroke-width="1" /> 
+<polyline points="100,0 100,600" fill="none" stroke="gray" stroke-width="1" /> 
+<polyline points="200,0 200,600" fill="none" stroke="gray" stroke-width="1" /> 
+<polyline points="300,0 300,600" fill="none" stroke="gray" stroke-width="1" /> 
+<polyline points="400,0 400,600" fill="none" stroke="gray" stroke-width="1" /> 
+<polyline points="500,0 500,600" fill="none" stroke="gray" stroke-width="1" /> 
+<polyline points="600,0 600,600" fill="none" stroke="gray" stroke-width="1" /> 
+<text x="5" y="20" font-family="Verdana" font-size="18" fill="black">0</text> 
+<text x="105" y="20" font-family="Verdana" font-size="18" fill="black">100</text> 
+<text x="205" y="20" font-family="Verdana" font-size="18" fill="black">200</text> 
+<text x="305" y="20" font-family="Verdana" font-size="18" fill="black">300</text> 
+<text x="405" y="20" font-family="Verdana" font-size="18" fill="black">400</text> 
+<text x="505" y="20" font-family="Verdana" font-size="18" fill="black">500</text> 
+<text x="562" y="20" font-family="Verdana" font-size="18" fill="black">600</text> 
+<text x="5" y="59" font-family="Verdana" font-size="17" fill="black">39</text> 
+<text x="5" y="146" font-family="Verdana" font-size="17" fill="black">126</text> 
+<text x="5" y="233" font-family="Verdana" font-size="17" fill="black">213</text> 
+<text x="5" y="320" font-family="Verdana" font-size="17" fill="black">300</text> 
+<text x="5" y="407" font-family="Verdana" font-size="17" fill="black">387</text> 
+<text x="5" y="494" font-family="Verdana" font-size="17" fill="black">474</text> 
+<text x="5" y="581" font-family="Verdana" font-size="17" fill="black">561</text> 
+<polygon points="350.000000,300.000000 325.000000,343.301270 275.000000,343.301270 250.000000,300.000000 275.000000,256.698730 324.999969,256.698730 " fill="none" stroke="blue" stroke-width="1" /> 
+<polygon points="350.000000,300.000000 325.000000,343.301270 275.000000,343.301270 250.000000,300.000000 275.000000,256.698730 324.999969,256.698730 " fill="none" stroke="green" stroke-width="1" transform="translate(0.000000 -86.602539)" />
+<polygon points="350.000000,300.000000 325.000000,343.301270 275.000000,343.301270 250.000000,300.000000 275.000000,256.698730 324.999969,256.698730 " fill="none" stroke="green" stroke-width="1" transform="translate(0.000000 86.602539)" />
+<polygon points="350.000000,300.000000 325.000000,343.301270 275.000000,343.301270 250.000000,300.000000 275.000000,256.698730 324.999969,256.698730 " fill="none" stroke="green" stroke-width="1" transform="translate(0.000000 -173.205078)" />
+<polygon points="350.000000,300.000000 325.000000,343.301270 275.000000,343.301270 250.000000,300.000000 275.000000,256.698730 324.999969,256.698730 " fill="none" stroke="green" stroke-width="1" transform="translate(0.000000 173.205078)" />
+<polygon points="350.000000,300.000000 325.000000,343.301270 275.000000,343.301270 250.000000,300.000000 275.000000,256.698730 324.999969,256.698730 " fill="none" stroke="green" stroke-width="1" transform="translate(0.000000 -259.807617)" />
+<polygon points="350.000000,300.000000 325.000000,343.301270 275.000000,343.301270 250.000000,300.000000 275.000000,256.698730 324.999969,256.698730 " fill="none" stroke="green" stroke-width="1" transform="translate(0.000000 259.807617)" />
+<polyline points="325.000000,343.301270 300,300" fill="none" stroke="magenta" stroke-width="1" /> 
+<polyline points="250.000000,300.000000 300,300" fill="none" stroke="magenta" stroke-width="1" /> 
+<polyline points="324.999969,256.698730 300,300" fill="none" stroke="magenta" stroke-width="1" /> 
+<polyline points="325.000000,343.301270 300,300" fill="none" stroke="green" stroke-width="1" transform="translate(0.000000 -86.602539)" />
+<polyline points="250.000000,300.000000 300,300" fill="none" stroke="green" stroke-width="1" transform="translate(0.000000 -86.602539)" />
+<polyline points="324.999969,256.698730 300,300" fill="none" stroke="green" stroke-width="1" transform="translate(0.000000 -86.602539)" />
+<polyline points="325.000000,343.301270 300,300" fill="none" stroke="green" stroke-width="1" transform="translate(0.000000 86.602539)" />
+<polyline points="250.000000,300.000000 300,300" fill="none" stroke="green" stroke-width="1" transform="translate(0.000000 86.602539)" />
+<polyline points="324.999969,256.698730 300,300" fill="none" stroke="green" stroke-width="1" transform="translate(0.000000 86.602539)" />
+<polyline points="325.000000,343.301270 300,300" fill="none" stroke="green" stroke-width="1" transform="translate(0.000000 -173.205078)" />
+<polyline points="250.000000,300.000000 300,300" fill="none" stroke="green" stroke-width="1" transform="translate(0.000000 -173.205078)" />
+<polyline points="324.999969,256.698730 300,300" fill="none" stroke="green" stroke-width="1" transform="translate(0.000000 -173.205078)" />
+<polyline points="325.000000,343.301270 300,300" fill="none" stroke="green" stroke-width="1" transform="translate(0.000000 173.205078)" />
+<polyline points="250.000000,300.000000 300,300" fill="none" stroke="green" stroke-width="1" transform="translate(0.000000 173.205078)" />
+<polyline points="324.999969,256.698730 300,300" fill="none" stroke="green" stroke-width="1" transform="translate(0.000000 173.205078)" />
+<polyline points="325.000000,343.301270 300,300" fill="none" stroke="green" stroke-width="1" transform="translate(0.000000 -259.807617)" />
+<polyline points="250.000000,300.000000 300,300" fill="none" stroke="green" stroke-width="1" transform="translate(0.000000 -259.807617)" />
+<polyline points="324.999969,256.698730 300,300" fill="none" stroke="green" stroke-width="1" transform="translate(0.000000 -259.807617)" />
+<polyline points="325.000000,343.301270 300,300" fill="none" stroke="green" stroke-width="1" transform="translate(0.000000 259.807617)" />
+<polyline points="250.000000,300.000000 300,300" fill="none" stroke="green" stroke-width="1" transform="translate(0.000000 259.807617)" />
+<polyline points="324.999969,256.698730 300,300" fill="none" stroke="green" stroke-width="1" transform="translate(0.000000 259.807617)" />
+</svg>
