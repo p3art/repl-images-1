@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="600px" height="600px">
+<polygon points="0,0 600,0 600,600 0,600 0,0" fill="lightsteelblue" stroke="sandybrown" stroke-width="4" /> 
+<polyline points="0,0 600,0" fill="none" stroke="gray" stroke-width="1" /> 
+<polyline points="0,100 600,100" fill="none" stroke="gray" stroke-width="1" /> 
+<polyline points="0,200 600,200" fill="none" stroke="gray" stroke-width="1" /> 
+<polyline points="0,300 600,300" fill="none" stroke="gray" stroke-width="1" /> 
+<polyline points="0,400 600,400" fill="none" stroke="gray" stroke-width="1" /> 
+<polyline points="0,500 600,500" fill="none" stroke="gray" stroke-width="1" /> 
+<polyline points="0,600 600,600" fill="none" stroke="gray" stroke-width="1" /> 
+<polyline points="0,0 0,600" fill="none" stroke="gray" stroke-width="1" /> 
+<polyline points="100,0 100,600" fill="none" stroke="gray" stroke-width="1" /> 
+<polyline points="200,0 200,600" fill="none" stroke="gray" stroke-width="1" /> 
+<polyline points="300,0 300,600" fill="none" stroke="gray" stroke-width="1" /> 
+<polyline points="400,0 400,600" fill="none" stroke="gray" stroke-width="1" /> 
+<polyline points="500,0 500,600" fill="none" stroke="gray" stroke-width="1" /> 
+<polyline points="600,0 600,600" fill="none" stroke="gray" stroke-width="1" /> 
+<text x="5" y="20" font-family="Verdana" font-size="18" fill="black">0</text> 
+<text x="105" y="20" font-family="Verdana" font-size="18" fill="black">100</text> 
+<text x="205" y="20" font-family="Verdana" font-size="18" fill="black">200</text> 
+<text x="305" y="20" font-family="Verdana" font-size="18" fill="black">300</text> 
+<text x="405" y="20" font-family="Verdana" font-size="18" fill="black">400</text> 
+<text x="505" y="20" font-family="Verdana" font-size="18" fill="black">500</text> 
+<text x="562" y="20" font-family="Verdana" font-size="18" fill="black">600</text> 
+<text x="5" y="120" font-family="Verdana" font-size="18" fill="black">100</text> 
+<text x="5" y="220" font-family="Verdana" font-size="18" fill="black">200</text> 
+<text x="5" y="320" font-family="Verdana" font-size="18" fill="black">300</text> 
+<text x="5" y="420" font-family="Verdana" font-size="18" fill="black">400</text> 
+<text x="5" y="520" font-family="Verdana" font-size="18" fill="black">500</text> 
+<text x="5" y="590" font-family="Verdana" font-size="18" fill="black">600</text> 
+<polygon points="350.000000,300.000000 325.000000,343.301270 275.000000,343.301270 250.000000,300.000000 275.000000,256.698730 324.999969,256.698730 " fill="none" stroke="blue" stroke-width="1" /> 
+<polygon points="350.000000,300.000000 325.000000,343.301270 275.000000,343.301270 250.000000,300.000000 275.000000,256.698730 324.999969,256.698730 " fill="none" stroke="red" stroke-width="1" transform="translate(0 -87)" />
+<polygon points="350.000000,300.000000 325.000000,343.301270 275.000000,343.301270 250.000000,300.000000 275.000000,256.698730 324.999969,256.698730 " fill="none" stroke="darkgreen" stroke-width="1" transform="rotate(60 300 300) translate(0 -87)" />
+<polygon points="350.000000,300.000000 325.000000,343.301270 275.000000,343.301270 250.000000,300.000000 275.000000,256.698730 324.999969,256.698730 " fill="none" stroke="darkgreen" stroke-width="1" transform="rotate(120 300 300) translate(0 -87)" />
+<polygon points="350.000000,300.000000 325.000000,343.301270 275.000000,343.301270 250.000000,300.000000 275.000000,256.698730 324.999969,256.698730 " fill="none" stroke="darkgreen" stroke-width="1" transform="rotate(180 300 300) translate(0 -87)" />
+<polygon points="350.000000,300.000000 325.000000,343.301270 275.000000,343.301270 250.000000,300.000000 275.000000,256.698730 324.999969,256.698730 " fill="none" stroke="darkgreen" stroke-width="1" transform="rotate(240 300 300) translate(0 -87)" />
+<polygon points="350.000000,300.000000 325.000000,343.301270 275.000000,343.301270 250.000000,300.000000 275.000000,256.698730 324.999969,256.698730 " fill="none" stroke="darkgreen" stroke-width="1" transform="rotate(300 300 300) translate(0 -87)" />
+</svg>
