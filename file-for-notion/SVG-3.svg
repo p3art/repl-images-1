@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="800px" height="600px">
+<polyline points="0,0 800,0 800,600 0,600 0,0" stroke="lightblue" stroke-width="4" /> 
+<polyline points="0,0 800,0" stroke="lightblue" stroke-width="1" /> 
+<polyline points="0,50 800,50" stroke="lightblue" stroke-width="1" /> 
+<polyline points="0,100 800,100" stroke="lightblue" stroke-width="1" /> 
+<polyline points="0,150 800,150" stroke="lightblue" stroke-width="1" /> 
+<polyline points="0,200 800,200" stroke="lightblue" stroke-width="1" /> 
+<polyline points="0,250 800,250" stroke="lightblue" stroke-width="1" /> 
+<polyline points="0,300 800,300" stroke="lightblue" stroke-width="1" /> 
+<polyline points="0,350 800,350" stroke="lightblue" stroke-width="1" /> 
+<polyline points="0,400 800,400" stroke="lightblue" stroke-width="1" /> 
+<polyline points="0,450 800,450" stroke="lightblue" stroke-width="1" /> 
+<polyline points="0,500 800,500" stroke="lightblue" stroke-width="1" /> 
+<polyline points="0,550 800,550" stroke="lightblue" stroke-width="1" /> 
+<polyline points="0,600 800,600" stroke="lightblue" stroke-width="1" /> 
+<polyline points="0,0 0,600" stroke="lightblue" stroke-width="1" /> 
+<polyline points="50,0 50,600" stroke="lightblue" stroke-width="1" /> 
+<polyline points="100,0 100,600" stroke="lightblue" stroke-width="1" /> 
+<polyline points="150,0 150,600" stroke="lightblue" stroke-width="1" /> 
+<polyline points="200,0 200,600" stroke="lightblue" stroke-width="1" /> 
+<polyline points="250,0 250,600" stroke="lightblue" stroke-width="1" /> 
+<polyline points="300,0 300,600" stroke="lightblue" stroke-width="1" /> 
+<polyline points="350,0 350,600" stroke="lightblue" stroke-width="1" /> 
+<polyline points="400,0 400,600" stroke="lightblue" stroke-width="1" /> 
+<polyline points="450,0 450,600" stroke="lightblue" stroke-width="1" /> 
+<polyline points="500,0 500,600" stroke="lightblue" stroke-width="1" /> 
+<polyline points="550,0 550,600" stroke="lightblue" stroke-width="1" /> 
+<polyline points="600,0 600,600" stroke="lightblue" stroke-width="1" /> 
+<polyline points="650,0 650,600" stroke="lightblue" stroke-width="1" /> 
+<polyline points="700,0 700,600" stroke="lightblue" stroke-width="1" /> 
+<polyline points="750,0 750,600" stroke="lightblue" stroke-width="1" /> 
+<polyline points="800,0 800,600" stroke="lightblue" stroke-width="1" /> 
+<polygon points="50,250 250,250 250,100 50,100" fill="coral" stroke="yellow" stroke-width="4" /> 
+<polyline points="50,250 250,100" stroke="blue" stroke-width="4" /> 
+<polyline points="50,100 250,250" stroke="blue" stroke-width="4" /> 
+<polygon points="70,230 230,230 150,120" fill="green" stroke="cyan" stroke-width="3" /> 
+</svg>
