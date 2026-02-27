@@ -1,6 +1,2 @@
-*
-# 唯獨允許進入這個特定資料夾
-!file-for-notion/
-# 允許該資料夾內的所有檔案（或特定圖片格式）
-!file-for-notion/*
-!.gitignore
+.DS_Store
+Thumbs.db
